@@ -1,11 +1,11 @@
 #########################################################################
 #Title: PYTHON Project Scenario - Data Analysis
 #Description: This program allows user to analyse.......
-#Name: <...>
-#Group Name: <...>
-#Class: <...>
-#Date: <...>
-#Version: <...>
+#Name: <Nigel Sng Wei Zhang >
+#Group Name: <KGN>
+#Class: <PN2004J>
+#Date: <19/02/2021>
+#Version: <2.0>
 #########################################################################
 
 #########################################################################
